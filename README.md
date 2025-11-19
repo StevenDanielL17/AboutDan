@@ -1,101 +1,100 @@
-<div align="center">
-  <img src="https://i.imgur.com/rN5nO8n.png" width="100%" alt="Porsche GT2 RS Banner" style="border-radius: 10px;">
-  
-  <h1 style="font-size: 2.5rem; font-weight: 900; margin-top: 10px;">
-    DAN <span style="color: #D50000;">//</span> GT2 RS
-  </h1>
-  
-  <p style="font-size: 1.2rem; font-weight: 600; letter-spacing: 2px; color: #b0b0b0;">
-    SYSTEMS ENGINEER • WEB ARCHITECT • CODE RESTORATION
-  </p>
-</div>
+[![MasterHead](https://i.pinimg.com/originals/8f/0e/84/8f0e84dc113c7c323a85d2a7d6194366.jpg)](https://github.com/StevenDanielL17)
 
-<br />
+<h1 align="center">Hi 👋, I'm Dan</h1>
+<h3 align="center">DAN // GT2 RS | Systems Engineer • Web Architect • Code Restoration</h3>
 
-### 🏁 The Driver Profile
+<img align="right" alt="Porsche" width="400" src="https://i.pinimg.com/736x/2d/c2/26/2dc2261e39336c5f5de70b763db0a22f.jpg">
 
-> **"Precision engineered for performance."**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenDanielL17&label=Profile%20views&color=D50000&style=flat" alt="StevenDanielL17" /> </p>
 
-I engineer precise systems — from low-level Rust tooling to elegant web interfaces. My expertise lies in **diagnosing and revitalizing dead codebases**, transforming them into stable, fast machines. Just as a GT2 RS is built for the track, my code is built for production.
+I build precise, reliable systems — from low-level Rust tooling to clean web interfaces. My specialty is **bringing dead, broken, or abandoned codebases back to life** and making them stable, fast, and maintainable. Just like a classic 911 restoration: strip it down, tune the engine, and make it fly.
 
----
+- 🔧 I specialize in **Code Restoration & Debugging**
 
-### 🛠️ The Engine Bay (Tech Stack)
+- 🏎️ Currently building **Rust CLI Tools & Web Automation**
 
-<table>
-  <tr>
-    <td align="center" width="33%"><b>SYSTEMS & BACKEND</b></td>
-    <td align="center" width="33%"><b>WEB DEVELOPMENT</b></td>
-    <td align="center" width="33%"><b>DESIGN & SECURITY</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust,python,linux" width="110" /><br><br>
-      • Rust<br>
-      • Operating Systems<br>
-      • Low-level Programming<br>
-      • CLI Tools & Utilities<br>
-      • Python (algorithms, automation)<br>
-      • Bash Scripting
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,html,css" width="110" /><br><br>
-      • JavaScript<br>
-      • HTML5<br>
-      • CSS3<br>
-      • Responsive UI Layouts<br>
-      • Component Design<br>
-      • Modern Web Standards
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,git" width="80" /><br><br>
-      • Figma (UI/Dashboards)<br>
-      • Modern Minimalist UI<br>
-      • Clean Visual Aesthetic<br>
-      • Cybersecurity Best Practices<br>
-      • Vulnerability Awareness<br>
-      • Git Version Control
-    </td>
-  </tr>
-</table>
+- 💬 Ask me about **Rust, Web Development, System Optimization**
+
+- 📫 How to reach me **lstevendaniel43@gmail.com**
+
+- ⚡ Fun fact **I approach code like a mechanic approaches a GT2 RS engine**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/stevendaniell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stevendaniell" height="30" width="40" /></a>
+<a href="https://github.com/StevenDanielL17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="StevenDanielL17" height="30" width="40" /></a>
+</p>
 
 ---
 
-### 🏎️ Performance Services
+## 🛠️ The Engine Bay | Technical Skills
+
+### **Systems & Backend**
+<p align="left">
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+</p>
+
+- Rust
+- Operating System Fundamentals
+- Low-level Programming
+- CLI Tools & Utilities
+- Python (algorithms, automation)
+
+### **Web Development**
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+
+- HTML
+- CSS
+- JavaScript
+- Responsive UI Layouts
+- Component Design
+
+### **Cybersecurity**
+- Security Best Practices
+- Vulnerability Awareness
+
+### **Design**
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+- Figma (UI layouts, dashboards)
+- Modern Minimalist UI
+- Clean Visual Aesthetic
+
+---
+
+## 💼 Freelance Services
 
 | **Service Class** | **Description** |
 | :--- | :--- |
 | 🔧 **Code Restoration** | Diagnosing & fixing critical issues in abandoned codebases. |
-| 🌐 **Web Development** | Landing pages, responsive UI builds, and modern web interfaces. |
-| ⚙️ **Automation Scripts** | Custom Python & JavaScript automation solutions. |
-| 🛠️ **Rust Tooling** | CLI utilities and low-level system tools built in Rust. |
-| 🎨 **UI/UX Design** | Figma layouts, dashboards, and clean modern aesthetics. |
-| 🧹 **System Optimization** | Code cleanup, debugging, and performance tuning. |
+| 🌐 **Web Development** | Landing pages, UI builds, responsive layouts. |
+| ⚙️ **Automation Scripts** | Python & JavaScript automation solutions. |
+| 🛠️ **Debugging** | Deep system debugging and optimization. |
+| 🏗️ **Rust Tooling** | CLI utilities and system-level tools. |
+| 🎨 **UI Layout / Figma Design** | Modern, clean interface design. |
+| 🧹 **System Cleanup** | Code optimization and performance tuning. |
 
 ---
 
-### 📊 Telemetry Data
+## 📊 Telemetry Data
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StevenDanielL17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=D50000&icon_color=e0e0e0&text_color=ffffff" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDanielL17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=D50000&icon_color=e0e0e0&text_color=ffffff" height="160" alt="Top Languages" />
-</div>
+[![Sarthak's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StevenDanielL17&theme=high-contrast&bg_color=0d1117&color=D50000&line=D50000&point=e0e0e0&area=true&hide_border=true)](https://github.com/StevenDanielL17)
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenDanielL17&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=D50000&icon_color=e0e0e0&text_color=ffffff" alt="StevenDanielL17" /></p>
 
-### 🏁 Pit Lane (Connect)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenDanielL17&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0d1117&title_color=D50000&icon_color=e0e0e0&text_color=ffffff" alt="StevenDanielL17" /></p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/stevendaniell">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/StevenDanielL17">
-    <img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github&logoColor=black&labelColor=e0e0e0" alt="GitHub" />
-  </a>
-  <a href="mailto:lstevendaniel43@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lstevendaniel43@gmail.com-D50000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=990000" alt="Email" />
-  </a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StevenDanielL17&theme=radical&hide_border=true&background=0d1117&ring=D50000&fire=D50000&currStreakLabel=e0e0e0" alt="StevenDanielL17" /></p>
 
 ---
 
