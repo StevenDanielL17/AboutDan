@@ -1,9 +1,13 @@
-[![MasterHead](https://raw.githubusercontent.com/StevenDanielL17/AboutDan/main/Assests/porsche.gif)](https://github.com/StevenDanielL17)
+<div align="center">
+  <a href="https://github.com/StevenDanielL17">
+    <img src="https://raw.githubusercontent.com/StevenDanielL17/AboutDan/main/Assests/porsche.gif" width="100%" alt="MasterHead">
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">DAN // GT3 RS | Systems Engineer • Web Architect • Code Restoration</h3>
 
-<img align="right" alt="Porsche" width="400" src="https://raw.githubusercontent.com/StevenDanielL17/AboutDan/main/Assests/posh.jpg">
+<img align="right" alt="Porsche" width="400" src="https://raw.githubusercontent.com/StevenDanielL17/AboutDan/main/Assets/posh.jpg" style="margin-left: 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenDanielL17&label=Profile%20views&color=D50000&style=flat" alt="StevenDanielL17" /> </p>
 
@@ -18,6 +22,8 @@ I build precise, reliable systems — from low-level Rust tooling to clean web i
 - 📫 How to reach me **lstevendaniel43@gmail.com**
 
 - ⚡ Fun fact **I approach code like a mechanic approaches a GT2 RS engine**
+
+<br clear="both" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
