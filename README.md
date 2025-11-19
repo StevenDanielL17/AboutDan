@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/StevenDanielL17/AboutDan/main/Assests/porsche.mp4)](https://github.com/StevenDanielL17)
+[![MasterHead](https://raw.githubusercontent.com/StevenDanielL17/AboutDan/main/Assests/porsche.gif)](https://github.com/StevenDanielL17)
 
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">DAN // GT3 RS | Systems Engineer • Web Architect • Code Restoration</h3>
