@@ -1,4 +1,4 @@
-# AboutDan
+# Dan
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR0Z3B3YnN5Z3h6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6/3o7TKP9ln2Dr6ze6f6/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Porsche 911 Silhouette">
   
